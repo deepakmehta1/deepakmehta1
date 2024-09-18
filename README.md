@@ -1,6 +1,3 @@
-Here's how you can represent your skills using green-colored blocks for filled skills and white blocks for empty ones with a black border, giving each skill a visual rating out of 5 blocks:
-
-```html
 <html>
   <body>
     <h1 align="center">Hi 👋, I'm Deepak</h1>
@@ -111,4 +108,70 @@ Here's how you can represent your skills using green-colored blocks for filled s
         </td>
       </tr>
       <tr>
-        <td><a href="https://
+        <td><a href="https://www.mysql.com/" target="_blank"> <img src="mysql.png" alt="mysql" width="40" height="40"/> </a></td>
+        <td>MySQL</td>
+        <td>
+          <div style="display: flex;">
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://nodejs.org" target="_blank"> <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a></td>
+        <td>Node.js</td>
+        <td>
+          <div style="display: flex;">
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.djangoproject.com/" target="_blank"> <img src="django.png" alt="django" width="40" height="40"/> </a></td>
+        <td>Django</td>
+        <td>
+          <div style="display: flex;">
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://flask.palletsprojects.com" target="_blank"> <img src="flask.png" alt="flask" width="40" height="40"/> </a></td>
+        <td>Flask</td>
+        <td>
+          <div style="display: flex;">
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://aws.amazon.com/" target="_blank"> <img src="aws.jpeg" alt="aws" width="40" height="40"/> </a></td>
+        <td>AWS</td>
+        <td>
+          <div style="display: flex;">
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: green; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+            <div style="width: 20px; height: 20px; background-color: white; border: 1px solid black;"></div>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
