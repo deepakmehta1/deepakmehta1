@@ -9,8 +9,7 @@
         <td>
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 90%; background-color: green; height: 10px;"></div>
-          </div> 
-          <span>90%</span>
+          </div>
         </td>
       </tr>
       <tr>
@@ -20,7 +19,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
      <tr>
@@ -30,7 +28,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 80%; background-color: green; height: 10px;"></div>
           </div>
-          <span>80%</span>
         </td>
       </tr>
       <tr>
@@ -40,7 +37,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
       <tr>
@@ -50,7 +46,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 80%; background-color: green; height: 10px;"></div>
           </div>
-          <span>80%</span>
         </td>
       </tr>
       <tr>
@@ -60,7 +55,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 75%; background-color: green; height: 10px;"></div>
           </div>
-          <span>75%</span>
         </td>
       </tr>
       <tr>
@@ -70,7 +64,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
       <tr>
@@ -80,7 +73,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 90%; background-color: green; height: 10px;"></div>
           </div>
-          <span>90%</span>
         </td>
       </tr>
       <tr>
@@ -90,7 +82,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
       <tr>
@@ -100,7 +91,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 75%; background-color: green; height: 10px;"></div>
           </div>
-          <span>75%</span>
         </td>
       </tr>
       <tr>
@@ -110,7 +100,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 80%; background-color: green; height: 10px;"></div>
           </div>
-          <span>80%</span>
         </td>
       </tr>
       <tr>
@@ -120,7 +109,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
       <tr>
@@ -130,7 +118,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 80%; background-color: green; height: 10px;"></div>
           </div>
-          <span>80%</span>
         </td>
       </tr>
       <tr>
@@ -140,7 +127,6 @@
           <div style="width: 100px; background-color: lightgray;">
             <div style="width: 85%; background-color: green; height: 10px;"></div>
           </div>
-          <span>85%</span>
         </td>
       </tr>
     </table>
