@@ -1,7 +1,6 @@
 <html>
   <body>
     <h1 align="center">Hi 👋, I'm Deepak</h1>
-    
     <h3 align="left">Languages and Tools Used:</h3>
     <table>
       <tr>
