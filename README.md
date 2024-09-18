@@ -6,7 +6,10 @@
       <tr>
         <td><a href="https://www.python.org" target="_blank"> <img src="python.jfif" alt="python" width="40" height="40"/> </a></td>
         <td>Python</td>
-        <td><progress value="90" max="100">90%</progress></td>
+        <td>
+          <label for="file">Downloading progress:</label>
+          <progress value="90" max="100">90%</progress>
+        </td>
       </tr>
       <tr>
         <td><a href="https://www.fastapi.tiangolo.com/" target="_blank"> <img src="FastAPI.png" alt="fastapi" width="40" height="40"/> </a></td>
