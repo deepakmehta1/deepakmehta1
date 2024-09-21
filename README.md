@@ -68,6 +68,11 @@
         <td>AWS</td>
         <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
       </tr>
+      <tr>
+        <td><a href="https://www.mongodb.com/" target="_blank"> <img src="mongo.svg" alt="mongodb" width="40" height="40"/> </a></td>
+        <td>MongoDB</td>
+        <td>🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜</td>
+      </tr>
     </table>
   </body>
 </html>
